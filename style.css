@@ -361,8 +361,10 @@ article .icon{
 
 .project-img{
     border-radius:2rem;
-    width: 90%;
-    height: 90%;
+    /* width: 90%;
+    height: 90%; */
+    width: 350px;
+    height:500px;
 }
 
 .project-title {
